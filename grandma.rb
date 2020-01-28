@@ -1,6 +1,6 @@
 # Write a speak_to_grandma method.
 def speak_to_grandma (phrase = "I LOVE YOU GRANDMA!")
-  if String != phrase.upcase
+  if String == phrase.downcase
     return "HUH?! SPEAK UP, SONNY!"
   elsif String != phrase
     return "NO, NOT SINCE 1938!"
