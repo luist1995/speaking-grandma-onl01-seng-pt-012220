@@ -10,7 +10,7 @@ def speak_to_grandma (String)
     return "I LOVE YOU TOO PUMPKIN!"
   end
 end
-speak_to_grandma ("I LOVE YOU GRANDMA!")
+speak_to_grandma 
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
