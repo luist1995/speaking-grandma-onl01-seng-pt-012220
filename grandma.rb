@@ -10,7 +10,10 @@ def speak_to_grandma (phrase)
     return "I LOVE YOU TOO PUMPKIN!"
   end
 end
-speak_to_grandma 
+speak_to_grandma ("Hi Nana, how are you?")
+speak_to_grandma ("Hi!")
+speak_to_grandma ("WHAT DID YOU EAT TODAY?")
+speak_to_grandma ("WHAT?")
 
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!
