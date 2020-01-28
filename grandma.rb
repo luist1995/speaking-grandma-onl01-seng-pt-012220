@@ -2,7 +2,7 @@
 def speak_to_grandma (phrase = "I LOVE YOU GRANDMA!")
   if String == phrase.downcase
     return "HUH?! SPEAK UP, SONNY!"
-  elsif String == phrase
+  elsif String != phrase
     return "NO, NOT SINCE 1938!"
   else 
     return "I LOVE YOU TOO PUMPKIN!"
