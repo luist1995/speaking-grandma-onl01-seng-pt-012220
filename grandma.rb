@@ -1,5 +1,5 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma (phrase = "I LOVE YOU GRANDMA!")
+def speak_to_grandma (String)
   if String == "Hi Nana, how are you?"
      String == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
