@@ -1,10 +1,10 @@
 # Write a speak_to_grandma method.
-def speak_to_grandma (String)
-  if #{String} == "Hi Nana, how are you?"
-     #{String} == "Hi!"
+def speak_to_grandma (phrase)
+  if String == "Hi Nana, how are you?"
+     String == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
-  elsif #{String} == "WHAT DID YOU EAT TODAY?"
-        #{String} == "WHAT?"
+  elsif String == "WHAT DID YOU EAT TODAY?"
+        String == "WHAT?"
     return "NO, NOT SINCE 1938!"
   else 
     return "I LOVE YOU TOO PUMPKIN!"
