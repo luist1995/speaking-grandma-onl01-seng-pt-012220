@@ -3,7 +3,8 @@ def speak_to_grandma (phrase = "I LOVE YOU GRANDMA!")
   if String == "Hi Nana, how are you?"
      String == "Hi!"
     return "HUH?! SPEAK UP, SONNY!"
-  elsif String == phrase
+  elsif String == "WHAT DID YOU EAT TODAY?"
+        String ==
     return "NO, NOT SINCE 1938!"
   else 
     return "I LOVE YOU TOO PUMPKIN!"
